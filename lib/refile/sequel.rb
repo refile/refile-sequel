@@ -1,0 +1,1 @@
+require "refile/sequel/attachment"
